@@ -1,0 +1,20 @@
+{
+  "name": "lab-27-react-forms-props-lifecycle",
+  "version": "1.0.0",
+  "description": "401 JS --  Lab 27 Reddit Search Engine\r ===",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBEpstein/lab-27-react-forms-props-lifecycle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBEpstein/lab-27-react-forms-props-lifecycle/issues"
+  },
+  "homepage": "https://github.com/JBEpstein/lab-27-react-forms-props-lifecycle#readme"
+}
